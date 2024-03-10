@@ -60,32 +60,32 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Discord',
-			icon: 'discord',
+			icon: 'gamepad-2',
 			link: 'https://discord.com/app',
 		},
 		{
 			id: '3',
-			name: '1337x',
-			icon: '1337x',
-			link: 'https://1337x.to',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '4',
-			name: 'FMHY',
-			icon: 'fmhy',
-			link: 'https://fmhy.pages.dev',
+			name: '1337x',
+			icon: 'x',
+			link: 'https://1337x.to',
 		},
 		{
 			id: '5',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://twitch.tv',
+			name: 'FMHY',
+			icon: 'play',
+			link: 'https://fmhy.pages.dev',
 		},
 		{
 			id: '6',
-			name: 'Nexusmods',
-			icon: 'nexus',
-			link: 'https://nexusmods.com/stardewvalley',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'headset',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Steam',
+					link: 'https://store.steampowered.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Epic Games',
+					link: 'https://www.epicgames.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Fitgirl',
+					link: 'https://fitgirl-repacks.site',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'DODI',
+					link: 'https://dodi-repacks.site/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Fmovies',
+					link: 'https://fmoviesz.to',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Lemmy',
+					link: 'https://lemmy.dbzer0.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Zoo',
+					link: 'https://zoo.replicate.dev',
 				},
 			],
 		},
