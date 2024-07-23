@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Fmovies',
-					link: 'https://fmoviesz.to',
+					name: 'Loneli',
+					link: 'https://watch.lonelil.ru',
 				},
 				{
 					name: 'Lemmy',
